@@ -14,6 +14,6 @@ function calculate() {
       "You're get the student pricing!"
   } else {
     document.getElementById("answer").innerHTML =
-      "You myst pay regular price."
+      "You must pay regular price."
   }
 }
